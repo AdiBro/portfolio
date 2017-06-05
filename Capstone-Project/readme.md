@@ -1,4 +1,4 @@
-Data Science Capstone Project - Homicides Report Analysis
+Data Science Capstone Project - Homicides Report Analysis  
 This is the repo for my capstone project - analyzing the homicides report data. In this project I examined the data - explored trends in the data (solved vs. unsolved cases), relationships between variables, and added visual representation of the data throughout the analysis. Then I tried to predict whether a case would be solved or not based on its features.
 
 The Data:
